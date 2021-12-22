@@ -2,8 +2,9 @@ import {ApolloServer, gql} from 'apollo-server';
 //import { ApolloServer } from 'apollo-server-express';
 const users =[
     {name: "prak", sex: "M"},
-    {name: "ploy", sex: "w"},
+    {name: "ploy", sex: "FM"},
     {name: "bank", sex: "M"},
+    {name: "Thanawat", sex: "M"},
 ];
 
 //schema
